@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left"> Eu sou David, um entusiasta de desenvolvimento apaixonado por criar soluções inovadoras e impactantes. Atualmente, estou embarcando em uma jornada emocionante explorando o vasto mundo da programação</p>
 
 ###
 
@@ -10,7 +10,18 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨
+
+🚀 Minhas Tecnologias e Habilidades:
+
+💻 Desenvolvimento Mobile: Tenho experiência prática em React Native, permitindo-me criar aplicativos móveis dinâmicos e eficientes que oferecem experiências envolventes aos usuários.
+🌐 Frontend Power: Meu conhecimento em JavaScript e TypeScript me capacita a desenvolver interfaces web responsivas e interativas, proporcionando uma experiência de usuário excepcional.
+☕ Dominando o Java: Compreendo os conceitos fundamentais do Java, o que me permite contribuir de maneira significativa para o desenvolvimento de projetos robustos.
+🎓 Minha Formação:
+
+📚 Graduação em Sistema de Informação no IFBA: Minha jornada acadêmica no Instituto Federal da Bahia esta me proporcionando um ambiente de aprendizado enriquecedor, 
+
+💬 Estou sempre ansioso para aprender e crescer na área de tecnologia. Seja trabalhando em equipe, resolvendo problemas complexos ou explorando novas tecnologias, estou comprometido em entregar resultados de alta qualidade e impulsionar a inovação..</p>
 
 ###
 
